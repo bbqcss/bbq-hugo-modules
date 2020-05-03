@@ -1,1 +1,1 @@
-# bbq-hugo-modules
+# BBQ Hugo Modules
